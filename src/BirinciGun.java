@@ -1,10 +1,16 @@
 public class BirinciGun {
 	
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		System.out.println("11:57 - Birinci Gün");
 		System.out.println("11:57 - Ýkinci Commit");
 		
 	
+=======
+		System.out.println("11:05 - Birinci GÃ¼n");
+		System.out.println("11:05 - Birinci GÃ¼n-2")
+		System.out.println("10:11 - Ikinci Gun")
+>>>>>>> refs/remotes/origin/master
 	}
 }
 
