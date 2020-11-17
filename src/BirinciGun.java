@@ -9,9 +9,9 @@ public class BirinciGun {
 		System.out.println("10:11 - Ikinci Gun");
 		System.out.println("10:11 - Ikinci");
 
-	}
-}
 
+}
+}
 
 
 
